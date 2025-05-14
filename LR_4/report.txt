@@ -1,0 +1,19 @@
+Вхідний текст (перші 300 символів):
+In the heart of the city, there was a mysterious bookstore. Every book contained a world, and every world had a secret. Among the dusty shelves, a young man named Arthur found an old, leather-bound volume titled 'The Key to Dreams'. As he opened it, he was transported into realms beyond imagination....
+Розмір вхідного тексту: 5752 біт
+
+=== LZ77 Стиснення ===
+Кількість триплетів: 239
+Розмір стиснених даних: 7648 біт
+Коефіцієнт стиснення: 0.75
+Текст після декодування збігається: True
+
+=== LZW Стиснення ===
+Кількість кодів: 423
+Розмір стиснених даних: 4230 біт
+Коефіцієнт стиснення: 1.36
+Текст після декодування збігається: True
+
+=== Порівняння ефективності ===
+LZ77 коефіцієнт стиснення: 0.75
+LZW коефіцієнт стиснення: 1.36
